@@ -1,2 +1,2 @@
 # blogs
-- [Redis 小计](./Redis/Redis.md)
+- [Redis 小计](./Redis/README.md)
