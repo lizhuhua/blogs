@@ -5,3 +5,4 @@
 - [Redis主从复制](./Redis主从复制.md)
 - [Redis哨兵模式](./Redis哨兵模式.md)
 - [Redis缓存设计](./Redis缓存设计.md)
+- [Redis发布订阅](./Redis发布订阅.md)
